@@ -1,0 +1,46 @@
+h1{
+  color: brown;
+}
+p.intro{
+  color: rgb(75, 67, 67);
+}
+h2.main{
+  color: rgb(64, 53, 75);
+}
+.one{
+  color: rgb(94, 62, 4);
+  width: auto;
+  border: 2px solid green;
+  padding: 10px;
+  margin: 12px;
+  background-color: grey;
+}
+.two{
+  color: blue;
+  width: auto;
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: yellow;
+  margin: 12px;
+}
+img.pic1{
+  width: 300px;
+  height: 300px;
+}
+img.pic2{
+  width: 400px;
+  height: 300px;
+}
+img.pic3{
+  width: 350px;
+}
+img.pic4{
+  height: 350px;
+  width: 300px;
+}
+body{
+  text-align: center;
+}
+.All{
+  text-align: center;
+}
